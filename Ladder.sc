@@ -64,5 +64,3 @@ object Solution {
 
 Solution.solution(Array(4, 4, 5, 5, 1), Array(3, 2, 4, 3, 1))
 Solution.solution(Array(1), Array(1))
-
-5 & 0
